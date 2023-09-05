@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004970969661",
+    "project_id": "my-university-attendance",
+    "storage_bucket": "my-university-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004970969661:android:f705bf320c0245630e3854",
+        "android_client_info": {
+          "package_name": "com.myapp.myuniversityattendanceapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004970969661-mrp010u6e1rq092i5l61fpb35bv4hcrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALa09O6WG9ZN5DNXLUP79umC_xu_kJDu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004970969661-mrp010u6e1rq092i5l61fpb35bv4hcrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
